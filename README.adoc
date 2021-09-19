@@ -1,0 +1,11 @@
+= ProjectD
+
+Here will be specification and implementation of projectd format and protocol
+
+== Site
+
+https://projectd.tech/
+
+== Join us!
+
+https://discord.gg/2PbUG6vUTR[Discord]

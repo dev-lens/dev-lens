@@ -1,7 +1,8 @@
 {
-  "name": "@mprt/dev-lens-example",
+  "name": "@projectd/web-example",
+  "private": true,
   "version": "0.1.0",
-  "description": "Web app example for dev-lens",
+  "description": "Web app example for projectd",
   "author": "Ivan Plesskih <terma95@gmail.com>",
   "license": "MIT",
   "main": "src/index.ts",
